@@ -15,6 +15,8 @@ Use one of the following key bindings
 - use 'Super' instead of 'Ctrl' for OS X
 
 Alternatively it is possible to use the Command Palette (Ctrl+Shift+P) instead of the key bindings.
+
+
 ---
 Copyright (c) 2015 Alexey Zagalsky
 
