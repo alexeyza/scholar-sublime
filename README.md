@@ -15,10 +15,6 @@ Use one of the following key bindings
 - use 'Super' instead of 'Ctrl' for OS X
 
 Alternatively it is possible to use the Command Palette (Ctrl+Shift+P) instead of the key bindings.
-
-## Beta
-This plugin is in early development and may not work properly (or at all). Its design is still under development (I'm open to suggestions).
-
 ---
 Copyright (c) 2015 Alexey Zagalsky
 
