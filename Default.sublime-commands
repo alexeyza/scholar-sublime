@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "ScholarSublime: Search Paper",
+    "command": "scholarsublime_search_paper"
+  },
+  {
+    "caption": "ScholarSublime: Search Author",
+    "command": "scholarsublime_search_author"
+  }
+]

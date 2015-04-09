@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+o"], "command": "scholarsublime_search_paper" },
+    { "keys": ["super+shift+o"], "command": "scholarsublime_search_author" }
+]
