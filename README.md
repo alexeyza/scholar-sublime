@@ -1,6 +1,6 @@
 # Google Scholar Plugin for Sublime Text 3
 
-Many researchers use Sublime Text to author paper in Latex and have a need to quickly find a paper or a specific author of a paper. This idea for this plugin was inspired by the [Google Scholar Chrome plugin]() release, it is only an initial version (created in a few minutes). In the future, would be nice I can integrate the search results in Sublime Text itself (and import bibtex file directly).
+Many researchers use Sublime Text to author paper in Latex and have a need to quickly find a paper or a specific author of a paper. This idea for this plugin was inspired by the [Google Scholar Chrome plugin](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en) release, it is only an initial version (created in a few minutes). In the future, would be nice I can integrate the search results in Sublime Text itself (and import bibtex file directly).
 
 ## Install
 At the moment you need to clone the repository and place the plugin folder in ```sublime-text-3/Packages/User```.
